@@ -32,10 +32,3 @@ The following methods were implemented and evaluated:
 4. **Autoencoder**:
    - A neural network model trained to minimize reconstruction error.
    - High reconstruction error indicates anomalies.
-Aggregates scores using a weighted average.
-
-Autoencoder:
-
-A neural network model trained to minimize reconstruction error.
-
-High reconstruction error indicates anomalies.
